@@ -28,6 +28,10 @@
 <script>
 import AppLogo from '~/components/AppLogo.vue'
 
+// import css files.
+import "~/assets/css/style.scss";
+
+
 export default {
   components: {
     AppLogo
