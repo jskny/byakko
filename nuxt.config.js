@@ -36,6 +36,6 @@ module.exports = {
     }
   },
  
-  modules: ['@nuxtjs/style-resources'],
+  modules: ['@nuxtjs/style-resources']
 }
 
