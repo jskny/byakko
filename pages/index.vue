@@ -18,6 +18,8 @@
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
+      <br>
+      <router-link to="about">About</router-link>
     </div>
   </section>
 </template>
